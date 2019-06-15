@@ -1,20 +1,5 @@
-'use strict';
-
-
-// var number = 5;
-// var string = "Hello";
-// var sym = Symbol();
-// var boolean = true;
-// null;
-// undefined;
-// var obj = {};
-//
-// console.log(4/0);
-//
-// let work = ['tock.png','dick.jpg','dron.bmp'];
-// console.log(work[2]);
-//
-// alert("HEloo World!");
-
-let incr = 10,
-    decr = 10;
+if (2*4 == 8) {
+    console.log("Верно!")
+} else {
+    console.log("Не верно!")
+}
